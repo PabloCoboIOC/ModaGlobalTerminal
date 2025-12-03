@@ -1,3 +1,0 @@
-aquest es un arxiu per provar el conflicte de modificar i eliminar un fitxer
-
-linea afegida després d'esborrar l'arxiu a l'altre branca.
